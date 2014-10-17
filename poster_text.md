@@ -13,3 +13,9 @@ Bone motion data comes from two high-speed, biplanar x-ray movies. Bone morpholo
 The XMA Portal is a web environment for the management of X-ray Motion Analysis (XMA) data developed at Brown University.  The XMA Portal serves as a powerful tool for organizing, searching, and disseminating XROMM experimental data.  As a component of the University of Chicago XROMM project, the RCC will be hosting a local instance of the XMA Portal.
 
 [XMA Portal image and caption from Jason’s email]
+
+#Data Pipeline
+[Pipeline figure]
+[Caption: High-level sketch of the semi-automated XROMM dataset production pipeline]
+
+In this pipeline, data collected from multiple source machines during XROMM experiments will be transferred from the XROMM facility to Midway. This transfer of experimental will be run as an sbatch script that executes a set of rysnc commands nightly on Midway.  In addition to the raw data, metadata detailing each experimental trial and its associated datafiles will be archived in an SQL database on Midway.  The stored experimental data will be made searchable and accessible to the scientific community through the XMA Portal web interface hosted on Midway.
