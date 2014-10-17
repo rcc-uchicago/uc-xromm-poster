@@ -12,7 +12,7 @@ Bone motion data comes from two high-speed, biplanar x-ray movies. Bone morpholo
 ###XMA Portal
 The XMA Portal is a web environment for the management of X-ray Motion Analysis (XMA) data developed at Brown University.  The XMA Portal serves as a powerful tool for organizing, searching, and disseminating XROMM experimental data.  As a component of the University of Chicago XROMM project, the RCC will be hosting a local instance of the XMA Portal.
 
-[XMA Portal image for Jason’s email]
+[XMA Portal image from Jason’s email]
 [Caption: Data organization within the XMA portal. Repositories contain several studies and these studies may be associated with one or more PIs and the user who is conducting the experiments.]
 
 #Data Pipeline
