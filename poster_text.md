@@ -19,3 +19,6 @@ The XMA Portal is a web environment for the management of X-ray Motion Analysis 
 [Caption: High-level sketch of the semi-automated XROMM dataset production pipeline]
 
 In this pipeline, data collected from multiple source machines during XROMM experiments will be transferred from the XROMM facility to Midway. This transfer of experimental will be run as an sbatch script that executes a set of rysnc commands nightly on Midway.  In addition to the raw data, metadata detailing each experimental trial and its associated datafiles will be archived in an SQL database on Midway.  The stored experimental data will be made searchable and accessible to the scientific community through the XMA Portal web interface hosted on Midway.
+
+#Summary
+The development of the XROMM data pipeline at the University of Chicago creates a streamlined research workflow that efficiently combines data storage and management on Midway with the ability to package and publish these research datasets using the XMA Portal.  This project facilitates reproducible analyses of XROMM datasets by leveraging the storage and computational capacity of the Midway computing environment.   This effort also promotes collaborative research by allowing rapid access to XROMM experimental data through the XMA Portal.
