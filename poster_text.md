@@ -1,3 +1,8 @@
+#Title 
+###Data Pipeline for Management and Publication of XROMM Experimental Data
+Faculty Stakeholder: Callum Ross, PhD 
+RCC Project Staff: Jason Voigt (Lead), Simon Jacobs, Richard Williams
+
 #Objective
 The aim of this project is to create a data pipeline from the raw data streams generated in each XROMM laboratory experiment to the packaging and publishing of the data on the XMA portal.  Data sources associated with each experiment can include: x-ray video, neurophysiology data, electromyography data, force recordings, and anatomical models. This pipeline will permit these large and expensive-to-acquire data collections to be reused and repurposed by the community of researchers in a highly efficient manner.
 
