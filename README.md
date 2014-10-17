@@ -2,3 +2,4 @@ Materials for a [poster](https://mindbytes.uchicago.edu/page/poster-submissions)
 
 * [outline](outline.md)
 * [themes](themes.md)
+* [poster text](poster_text.md)
