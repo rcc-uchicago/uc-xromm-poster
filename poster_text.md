@@ -1,7 +1,11 @@
 # Data Pipeline for Management and Publication of XROMM Experimental Data
 
 Faculty Stakeholder: Callum Ross, PhD  
-RCC Project Staff: Jason Voigt (Lead), Simon Jacobs, Richard Williams
+
+RCC Project Staff:
+* Jason Voigt
+* Simon Jacobs
+* Richard Williams
 
 
 # Objective
