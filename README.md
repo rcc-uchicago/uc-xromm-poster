@@ -1,1 +1,1 @@
-Materials for a [poster](https://mindbytes.uchicago.edu/page/poster-submissions) on the [University of Chicago XROMM Project](https://github.com/rcc-uchicago/uc-xromm) to be presented at [MindBytes](https://mindbytes.uchicago.edu/).
+Materials for a [poster](poster.pdf) on the [University of Chicago XROMM Project](https://github.com/rcc-uchicago/uc-xromm) to be presented at [MindBytes](https://mindbytes.uchicago.edu/).
